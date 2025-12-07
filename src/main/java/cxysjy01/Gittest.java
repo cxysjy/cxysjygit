@@ -16,5 +16,6 @@ public class Gittest {
         System.out.println("999");
         System.out.println("666");
         System.out.println("666888");
+        System.out.println("66666888888");
     }
 }
