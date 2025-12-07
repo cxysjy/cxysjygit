@@ -14,5 +14,6 @@ public class Gittest {
         System.out.println("perfect");
         System.out.println("888");
         System.out.println("999");
+        System.out.println("666");
     }
 }
