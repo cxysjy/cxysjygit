@@ -12,5 +12,6 @@ public class Gittest {
     public static void main(String[] args) {
         System.out.println("better");
         System.out.println("perfect");
+        System.out.println("888");
     }
 }
